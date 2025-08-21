@@ -1,0 +1,9 @@
+**/build/
+**/install/
+**/CMakeFiles/
+**/CMakeFiles*/
+**/.vscode/
+LTE-M_NB-IoT_FUZZER/coverage_log/*/*
+LTE-M_NB-IoT_FUZZER/log/*/*/*
+LTE-M_NB-IoT_FUZZER/asan/
+LTE-M_NB-IoT_FUZZER/seeds/
