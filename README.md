@@ -1,4 +1,4 @@
-This repository contains provides an implementation of the extended CovFuzz framework for fuzzing LTE-M and NB-IoT. It is assossiated with the paper ["Breaking the Silence: Fuzzing LTE-M and NB-IoT Protocols"](link.springer.com/chapter/10.1007/978-3-032-16165-9_31) presented during the MIST workshop 2025.
+This repository contains provides an implementation of the extended CovFuzz framework for fuzzing LTE-M and NB-IoT. It is associated with the paper ["Breaking the Silence: Fuzzing LTE-M and NB-IoT Protocols"](link.springer.com/chapter/10.1007/978-3-032-16165-9_31) presented during the MIST workshop 2025.
 
 Note: The original implementation relied on a closed-source protocol stack that cannot be included here due to licensing restrictions. To run this framework, users must integrate their own LTE-M/NB-IoT-compatible protocol stack with the provided interception points.
 
